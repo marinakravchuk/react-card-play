@@ -2,6 +2,7 @@
   "name": "react_app_friday",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://marinakravchuk.github.io/react-card-play/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
