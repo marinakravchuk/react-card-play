@@ -36,8 +36,8 @@ function App() {
   useEffect(() => {
     if (playerScore > 21) {
       setcheckWiner(true);
-      setResult("You loose");
-      changeCounter("You loose")
+      setResult("You lose");
+      changeCounter("You lose")
     }
   }, [playerScore]);
 
