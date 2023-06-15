@@ -99,8 +99,8 @@ function addName(){
       changeCounter("Draw");
     }
      else {
-      setResult("You loose");
-      changeCounter("You loose");
+      setResult("You lose");
+      changeCounter("You lose");
     }
   }
 
